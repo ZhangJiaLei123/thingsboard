@@ -338,11 +338,12 @@
                         </mapping>
                     </configuration>
                     <executions>
-                        <execution>
+                      <!--  <execution>
                             <goals>
                                 <goal>check</goal>
                             </goals>
                         </execution>
+						-->
                     </executions>
                 </plugin>
             </plugins>
